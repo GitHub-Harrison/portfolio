@@ -1,4 +1,4 @@
-The idea for this project is to create a webpage showcasing my previous projects and introducing myself, this website will be used alongside my cv/cover letter/linkedin to help towards finding a job.
+The idea for this project is to create a webpage showcasing my previous projects and introducing myself.
 
 As of yet I have no solid idea of how the website should look but it will consist of:
 * Landing Page
@@ -9,3 +9,20 @@ As of yet I have no solid idea of how the website should look but it will consis
 * Additional information - hobby/interests/goals
 
 Firstly I will create some basic wireframes so I have a basic idea of how each page should look, once this is done I will then move onto creating the basic application and going through one page at a time.
+
+# Wireframes
+
+## Landing Page
+![Landing Page](/wireframes/landing.png)
+
+## About Page
+![About Page](/wireframes/about.png)
+
+## Projects Page
+![Projects Page](/wireframes/projects.png)
+
+## Project Information Page
+![Project Information Page](/wireframes/project-info.png)
+
+## Additional Information Page
+![Additional Information Page](/wireframes/other.png)
