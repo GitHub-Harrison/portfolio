@@ -1,0 +1,32 @@
+The order of creation:
+    Landing Page:
+        - Basic landing page, image as background with minimal welcome text
+        - Appropriate background image is a must
+        - Suitable welcome text
+
+    About page:
+        - Who I am
+        - What I do
+        - Why choose me?
+
+    Projects page:
+        - Showcase the projects created on the code institute course
+        - Minimal information on this page as to not overload users
+        - Image of the home webpage, title of the project
+
+    Projects information page:
+        - Similar to a product information page
+        - Project title, link to the repo, tech used, link to deployed site, grade?
+        - Description of the project, what it is, why i picked the theme
+        - Comments on what I would have liked to do better or what more I could add?
+
+    Contact page:
+        - Basic contact page, link to my linkedin/email for easy contact methods
+        - Contact form as an alternative
+
+    Additional information page:
+        - Hobbies, interests, other skills?
+        - Include what i do in my free time that
+        - Links to gaming profiles?
+        - My favourite games?
+        - Steam profile? Valorant tracker?
