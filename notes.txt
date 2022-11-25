@@ -1,7 +1,7 @@
 The order of creation:
     Landing Page:
         - Basic landing page, image as background with minimal welcome text
-        - Appropriate background image is a must
+        - Appropriate background image is a must - Space? Code? Gradient background?
         - Suitable welcome text
 
     About page:
