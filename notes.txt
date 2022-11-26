@@ -30,3 +30,7 @@ The order of creation:
         - Links to gaming profiles?
         - My favourite games?
         - Steam profile? Valorant tracker?
+
+
+# Use bootstrap for generic layout
+# Use JavaScript when able
