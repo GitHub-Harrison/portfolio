@@ -1,4 +1,8 @@
 The order of creation:
+    Base.html page:
+        - Navigation
+        -
+
     Landing Page:
         - Basic landing page, image as background with minimal welcome text
         - Appropriate background image is a must - Space? Code? Gradient background?
