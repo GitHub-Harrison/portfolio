@@ -38,3 +38,6 @@ The order of creation:
 
 # Use bootstrap for generic layout
 # Use JavaScript when able
+
+# background image only to be shown on the landing page for now 
+# <div class="overlay"></div> - will hide the background image
