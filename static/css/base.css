@@ -23,6 +23,8 @@ body {
 /* enter button */
 .enter {
     border-radius: 5px;
+
+    /* temporary colours - change later once design is decided upon */
     color: bisque;
     background-color: blueviolet;
     border: 1px solid blueviolet;
@@ -41,9 +43,11 @@ body {
 }
 
 .enter:hover {
+    /* temp colours - change once design is decided upon */
     background-color: #4CAF50;
     border-color: #4CAF50;
     color: bisque;
+
     /* current bg image makes it hard to see shadow - consider changing bg or removing shadow */
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
