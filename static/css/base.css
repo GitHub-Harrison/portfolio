@@ -25,8 +25,8 @@ body {
 
     /* temporary colours - change later once design is decided upon */
     color: bisque;
-    background-color: blueviolet;
-    border: 1px solid blueviolet;
+    background-color: rgb(71, 148, 148);
+    border: 1px solid rgb(71, 148, 148);
 
     margin: 0;
     position: absolute;
