@@ -1,7 +1,10 @@
 The order of creation:
     Base.html page:
         - Navigation
-        -
+            - Make navbar text center
+            - Make navbar thicker?
+            - Navbar is looking kinda boring, spice it up
+            - Make the active pill like?
 
     Landing Page:
         - Basic landing page, image as background with minimal welcome text
