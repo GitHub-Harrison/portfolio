@@ -11,6 +11,43 @@ body {
     height: 100%;
 }
 
+/* welcome message */
+.welcome-msg {
+    text-align: center;
+    margin-top: 20rem;
+    color: bisque;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+/* enter button */
+.enter {
+    border-radius: 5px;
+    color: bisque;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    font-size: 24px;
+    padding: 10px 24px;
+
+    transition-duration: 0.4s;
+}
+
+.enter:hover {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    color: bisque;
+    /* current bg image makes it hard to see shadow - consider changing bg or removing shadow */
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
 /* alerts */
 #alerts{
     margin-top: 8vh;
