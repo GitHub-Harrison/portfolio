@@ -4,8 +4,10 @@ html {
 
 body {
     /* full image for home page background */
+    /* how to add opacity to bg image without adding to other elements? edit image before using as bg? */
     background: url('/static/images/space.png') no-repeat center center fixed;
     background-size: cover;
+
     height: calc(100vh - 164px);
     height: 100%;
 }
