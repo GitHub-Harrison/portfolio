@@ -18,6 +18,14 @@ nav {
     background-color: rgba(0, 0, 0, 0.514);
 }
 
+.main-nav-icon {
+    color: brown;
+}
+
+.nav-item {
+    color: rgb(187, 139, 76);
+}
+
 /* welcome message */
 .welcome-msg {
     text-align: center;
@@ -96,6 +104,12 @@ footer {
 
     background-color: rgba(0, 0, 0, 0.842);
 }
+
+.footer-item {
+    color: blueviolet;
+    text-decoration: none;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
