@@ -12,6 +12,12 @@ body {
     height: 100%;
 }
 
+/* Navbar styling */
+
+nav {
+    background-color: rgba(0, 0, 0, 0.514);
+}
+
 /* welcome message */
 .welcome-msg {
     text-align: center;
@@ -87,6 +93,8 @@ footer {
     padding: 2px;
     height: auto;
     width: 100%;
+
+    background-color: rgba(0, 0, 0, 0.842);
 }
 /* -------------------------------- Media Queries */
 
