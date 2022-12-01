@@ -20,10 +20,31 @@ nav {
 
 .main-nav-icon {
     color: brown;
+    text-align: center;
+    padding: 18px;
+    font-size: 22px;
+}
+
+.main-nav-icon:hover {
+    color: greenyellow;
 }
 
 .nav-item {
     color: rgb(187, 139, 76);
+    text-align: center;
+    padding: 14px;
+    font-size: 17px;
+}
+
+.nav-item:hover {
+    color: darkgreen;
+}
+
+.active {
+    color: rgb(255, 208, 0);
+    /* text doesn't look centered in the box */
+    background-color: rgba(255, 255, 255, 0.651);
+    border-radius: 12px;
 }
 
 /* welcome message */
@@ -108,6 +129,10 @@ footer {
 .footer-item {
     color: blueviolet;
     text-decoration: none;
+}
+
+.footer-item:hover {
+    color: coral;
 }
 
 /* -------------------------------- Media Queries */
