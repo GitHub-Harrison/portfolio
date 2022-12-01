@@ -50,10 +50,14 @@ nav {
 /* welcome message */
 .welcome-msg {
     text-align: center;
-    margin-top: 20rem;
     color: bisque;
     font-size: 100px;
     font-weight: bold;
+    
+    position: absolute;
+    top: 45%; 
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 
 /* enter button */
@@ -69,7 +73,6 @@ nav {
     position: absolute;
     top: 55%;
     left: 50%;
-    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 
     font-size: 24px;
