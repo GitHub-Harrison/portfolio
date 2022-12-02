@@ -1,0 +1,11 @@
+/* css styling specifically for the about page */
+
+/* remove opacity from nav */
+nav {
+    background-color: rgb(0, 0, 0);
+}
+
+/* remove opacity from footer */
+footer {
+    background-color: black;
+}
