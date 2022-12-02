@@ -1,5 +1,9 @@
 /* css styling specifically for the about page */
 
+.overlay {
+    background-color: rgb(184, 163, 163);
+}
+
 /* remove opacity from nav */
 nav {
     background-color: rgb(0, 0, 0);
