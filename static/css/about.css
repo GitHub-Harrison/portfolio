@@ -17,5 +17,6 @@ footer {
 /* main text styling */
 
 .main-about {
-    /* center content */
+    /* figure best way to style */
+    text-align: center;
 }
