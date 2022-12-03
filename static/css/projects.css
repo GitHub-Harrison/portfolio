@@ -1,0 +1,13 @@
+/* project app specific styling */
+
+.overlay {
+    background-color: rgb(29, 29, 29);
+}
+
+body {
+    color: white;
+}
+
+img {
+    width: 25vw;
+}
