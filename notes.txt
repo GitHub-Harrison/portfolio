@@ -17,6 +17,8 @@ The order of creation:
         - Why choose me?
 
     Projects page:
+        - Create Model so I can add projects and have them automatically show on the webpage rather
+            than manually having to add more html
         - Showcase the projects created on the code institute course
         - Minimal information on this page as to not overload users
         - Image of the home webpage, title of the project
